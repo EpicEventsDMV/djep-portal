@@ -16986,9 +16986,6 @@ body.djep-planningformpage-ready .djep-planningform-timer {
   letter-spacing: normal !important;
   text-transform: none !important;
 }
-
-/* Hide the Disable autosave checkbox + label everywhere. The autosave is
-   harmless and doesn't need a user-facing kill switch. */
 body.djep-timelinepage-ready .djep-timeline-toggle,
 body.djep-planningformpage-ready .djep-planningform-toggle {
   display: none !important;
